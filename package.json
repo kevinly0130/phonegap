@@ -4,7 +4,7 @@
   "homepage": "http://app.phonegap.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/phonegap/phonegap-app-developer.git"
+    "url": "git://github.com/kevinly0130/phonegap.git"
   },
   "preferGlobal": false,
   "private": true,
